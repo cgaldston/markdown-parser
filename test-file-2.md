@@ -1,5 +1,3 @@
 # Title
-
-[link](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752574(v=vs.85)?redirectedfrom=MSDN)
-
-
+![practice_image](sample_Image.jpg)
+[link](practice_link.com)
